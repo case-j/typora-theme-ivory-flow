@@ -2,7 +2,7 @@
 
 A minimal writing theme for focused prose. Designed for long-form notes, essays, and documentation.
 
-![Preview of Ivory Flow theme](/ivory-flow-screenshot.png)
+![Preview of Ivory Flow theme](/media/preview-1.png)
 
 ## Features
 
